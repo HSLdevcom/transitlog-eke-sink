@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/HSLdevcom/transitlog-hfp-split-sink.svg?branch=master)](https://travis-ci.org/HSLdevcom/transitlog-hfp-split-sink)
+[![Build Status](https://travis-ci.org/HSLdevcom/transitlog-eke-sink.svg?branch=master)](https://travis-ci.org/HSLdevcom/transitlog-eke-sink)
 
 ## Description
 
-Application for inserting HFP data to PostgreSQL TimescaleDB.
+Application for inserting EKE data to Azure Hyperscale and HSL Data warehouse
 
 ## Building
 
